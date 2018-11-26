@@ -1,0 +1,1 @@
+Simple Java project to demonstrate usage of CI/CD pipeline using GitLab
